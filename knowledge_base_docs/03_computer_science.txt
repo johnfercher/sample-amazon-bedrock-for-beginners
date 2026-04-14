@@ -1,0 +1,19 @@
+Greenfield University — Computer Science Department FAQ
+
+Q: Where is the Computer Science department located?
+A: The Computer Science department is in the Turing Engineering Building, 3rd floor, rooms 300-320. The main office is room 301.
+
+Q: What degrees does the CS department offer?
+A: We offer a Bachelor of Science in Computer Science, a Bachelor of Arts in Computer Science, a Minor in Computer Science, and a combined BS/MS five-year program.
+
+Q: What programming languages are taught in the introductory courses?
+A: CS 101 (Intro to Programming) uses Python. CS 201 (Data Structures) uses Java. Upper-level electives cover C++, JavaScript, Rust, and others depending on the course.
+
+Q: Do I need prior programming experience to major in CS?
+A: No. CS 101 assumes no prior experience. Students with AP Computer Science credit or equivalent may place directly into CS 201.
+
+Q: Who is the department chair?
+A: Dr. Maria Chen is the current department chair. Her office is Turing 305 and her office hours are Tuesdays and Thursdays from 2:00 to 4:00 PM.
+
+Q: Is there a CS tutoring center?
+A: Yes. The CS Help Desk is in Turing 110, open Monday through Thursday from 6:00 to 10:00 PM. Peer tutors can help with courses from CS 101 through CS 350. No appointment needed.
