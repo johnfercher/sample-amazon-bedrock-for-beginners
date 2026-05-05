@@ -15,7 +15,7 @@ This repo contains code samples that take you from your first Bedrock API call t
 Create a virtual environment and install the required packages:
 
 ```bash
-python3 -m venv .venv
+python3.10 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```

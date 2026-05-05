@@ -14,3 +14,9 @@ python-dotenv>=1.0.0
 # Requires Python 3.10+
 strands-agents>=0.1.0
 strands-agents-tools>=0.1.0
+
+# Git tooling (clone, branch, commit) used by tool-use examples
+GitPython>=3.1.40
+
+# GitHub API client (create pull requests, manage repos)
+PyGithub>=2.3.0
